@@ -1,0 +1,1 @@
+# voltmind-cli-plugin-example
